@@ -1,4 +1,4 @@
-# Temtuim
+# Temtium
 Hi, I'm Eban Morris
 I am majoring in Computer Science
 
